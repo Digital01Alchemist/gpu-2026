@@ -577,6 +577,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |Group|Name|Result|Rank|
 |-----|----|------|----|
 |3823B1FI1|dorofeev_ivan|0.0259|2|
+|3823B1PE3|rastvorov_kirill|0.0365|6|
 |3823B1PE3|ermakov_alexei|0.0373|5|
 |3823B1PE1|shilin_nikita|0.0383|3|
 |3823B1PE2|viderman_aleksandra|0.0386|5|
@@ -810,13 +811,13 @@ Passed: 4
 |-----|----|------|-----|
 |3823B1PE3|afanasyev_alexandr|1/8|49|
 |3823B1PE3|balchunayte_zlata|1/8|55|
-|3823B1PE3|batkov_filipp|4/8|229|
-|3823B1PE3|bortsova_angelina|**8/8**|**478**|
+|3823B1PE3|batkov_filipp|4/8|228|
+|3823B1PE3|bortsova_angelina|**8/8**|**477**|
 |3823B1PE3|borunov_vladislav|3/8|167|
-|3823B1PE3|dergachev_arseniy|**8/8**|**498**|
-|3823B1PE3|ermakov_alexei|7/8|411|
-|3823B1PE3|marin_lev|**8/8**|**476**|
-|3823B1PE3|rastvorov_kirill|3/8|171|
+|3823B1PE3|dergachev_arseniy|**8/8**|**497**|
+|3823B1PE3|ermakov_alexei|7/8|410|
+|3823B1PE3|marin_lev|**8/8**|**475**|
+|3823B1PE3|rastvorov_kirill|4/8|230|
 
 Passed: 3
 
